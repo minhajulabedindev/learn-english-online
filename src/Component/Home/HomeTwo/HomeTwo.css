@@ -1,0 +1,8 @@
+.homeTwo-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+    /* padding: 20px; */
+
+    /* background-color: rgb(216, 18, 18); */
+}
